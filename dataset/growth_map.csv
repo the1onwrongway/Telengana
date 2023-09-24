@@ -1,0 +1,199 @@
+﻿district,Value,Growth %
+Peddapalli,-99%,Inv_Growth_%
+Adilabad,-81%,Inv_Growth_%
+Warangal,-61%,Diesel_Growth %
+Warangal,-54.74%,Petrol_Growth %
+Khammam,-47%,Inv_Growth_%
+Warangal,-44%,Inv_Growth_%
+Jagtial,-42.08%,Petrol_Growth %
+Jayashankar Bhupalpally,-39.12%,Petrol_Growth %
+Nirmal,-38.71%,Petrol_Growth %
+Mahabubabad,-37.45%,Petrol_Growth %
+Jagtial,-37%,Diesel_Growth %
+Mahabubnagar,-36.55%,Petrol_Growth %
+Rajanna Sircilla,-36.42%,Petrol_Growth %
+Nizamabad,-35.83%,Petrol_Growth %
+Mahabubabad,-35%,Diesel_Growth %
+Kamareddy,-34.63%,Petrol_Growth %
+Jangoan,-34%,Diesel_Growth %
+Peddapalli,-31.57%,Petrol_Growth %
+Mancherial,-31.54%,Petrol_Growth %
+Bhadradri Kothagudem,-31.09%,Petrol_Growth %
+Jayashankar Bhupalpally,-30%,Diesel_Growth %
+Mahabubnagar,-30%,Diesel_Growth %
+Khammam,-29.78%,Petrol_Growth %
+Adilabad,-29.49%,Petrol_Growth %
+Wanaparthy,-29.27%,Petrol_Growth %
+Jangoan,-29.18%,Petrol_Growth %
+Kumurambheem Asifabad,-28.22%,Petrol_Growth %
+Siddipet,-27.71%,Petrol_Growth %
+Suryapet,-27.28%,Petrol_Growth %
+Peddapalli,-27%,Diesel_Growth %
+Nalgonda,-24.01%,Petrol_Growth %
+Rajanna Sircilla,-23%,Diesel_Growth %
+Nagarkurnool,-22.79%,Petrol_Growth %
+Yadadri Bhuvanagiri,-22.77%,Petrol_Growth %
+Medak,-22.31%,Petrol_Growth %
+Nalgonda,-22%,Diesel_Growth %
+Nizamabad,-22%,Diesel_Growth %
+Jogulamba Gadwal,-21.35%,Petrol_Growth %
+Mancherial,-20%,Diesel_Growth %
+Jagtial,-18%,Inv_Growth_%
+Suryapet,-18%,Diesel_Growth %
+Vikarabad,-17.63%,Petrol_Growth %
+Kamareddy,-17%,Diesel_Growth %
+Karimnagar,-16.32%,Petrol_Growth %
+Nirmal,-16%,Diesel_Growth %
+Siddipet,-16%,Diesel_Growth %
+Medak,-14%,Diesel_Growth %
+Bhadradri Kothagudem,-12%,Diesel_Growth %
+Khammam,-11%,Diesel_Growth %
+Nagarkurnool,-9%,Diesel_Growth %
+Sangareddy,-7.98%,Petrol_Growth %
+Jogulamba Gadwal,-7%,Diesel_Growth %
+Wanaparthy,-7%,Diesel_Growth %
+Yadadri Bhuvanagiri,-7%,Diesel_Growth %
+Kumurambheem Asifabad,-5%,Diesel_Growth %
+Medchal_Malkajgiri,-4.43%,Petrol_Growth %
+Medak,-2.40%,E_Doc_Growth%
+Hyderabad,-1.68%,Petrol_Growth %
+Bhadradri Kothagudem,-1.20%,E_Doc_Growth%
+Vikarabad,-1%,Diesel_Growth %
+Warangal,-0.80%,E_Doc_Growth%
+Nalgonda,0.20%,E_Doc_Growth%
+Mahabubnagar,0.30%,E_Doc_Growth%
+Nagarkurnool,0.30%,E_Doc_Growth%
+Siddipet,0.40%,E_Doc_Growth%
+Wanaparthy,0.40%,E_Doc_Growth%
+Jogulamba Gadwal,0.50%,E_Doc_Growth%
+Karimnagar,0.50%,E_Doc_Growth%
+Medchal_Malkajgiri,0.50%,E_Doc_Growth%
+Vikarabad,0.50%,E_Doc_Growth%
+Yadadri Bhuvanagiri,0.60%,E_Doc_Growth%
+Adilabad,0.70%,E_Doc_Growth%
+Hanumakonda,0.70%,E_Doc_Growth%
+Hyderabad,0.70%,E_Doc_Growth%
+Rajanna Sircilla,0.70%,E_Doc_Growth%
+Suryapet,0.70%,E_Doc_Growth%
+Jagtial,0.80%,E_Doc_Growth%
+Nizamabad,0.80%,E_Doc_Growth%
+Peddapalli,1.00%,E_Doc_Growth%
+Nirmal,1.10%,E_Doc_Growth%
+Sangareddy,1.10%,E_Doc_Growth%
+Kumurambheem Asifabad,1.20%,E_Doc_Growth%
+Mancherial,1.20%,E_Doc_Growth%
+Rangareddy,1.20%,E_Doc_Growth%
+Khammam,1.40%,E_Doc_Growth%
+Mahabubabad,1.40%,E_Doc_Growth%
+Mulugu,1.40%,E_Doc_Growth%
+Jangoan,2.40%,E_Doc_Growth%
+Bhadradri Kothagudem,3%,Inv_Growth_%
+Hyderabad,4%,Diesel_Growth %
+Kamareddy,4.00%,E_Doc_Growth%
+Rangareddy,6.17%,Petrol_Growth %
+Mahabubnagar,8%,Inv_Growth_%
+Medchal_Malkajgiri,9%,Diesel_Growth %
+Adilabad,11%,Diesel_Growth %
+Sangareddy,14%,Diesel_Growth %
+Narayanpet,16.80%,E_Doc_Growth%
+Rajanna Sircilla,19%,Electric_Growth %
+Rangareddy,21%,Diesel_Growth %
+Mahabubnagar,21%,Electric_Growth %
+Medchal_Malkajgiri,34%,Inv_Growth_%
+Jangoan,43%,Doc_Growth %
+Nizamabad,47%,Inv_Growth_%
+Sangareddy,50%,Inv_Growth_%
+Rangareddy,66%,Inv_Growth_%
+Rajanna Sircilla,70%,Inv_Growth_%
+Wanaparthy,70%,Electric_Growth %
+Nalgonda,75%,Doc_Growth %
+Kumurambheem Asifabad,78%,Doc_Growth %
+Narayanpet,84%,Doc_Growth %
+Karimnagar,85%,Inv_Growth_%
+Warangal,85%,Doc_Growth %
+Nizamabad,87%,Electric_Growth %
+Vikarabad,88%,Electric_Growth %
+Kamareddy,91%,Doc_Growth %
+Yadadri Bhuvanagiri,92%,Doc_Growth %
+Mahabubnagar,96%,Doc_Growth %
+Jayashankar Bhupalpally,97%,Inv_Growth_%
+Adilabad,99%,Electric_Growth %
+Kamareddy,99%,Electric_Growth %
+Warangal,99%,Electric_Growth %
+Mancherial,102%,Electric_Growth %
+Medak,103%,Doc_Growth %
+Siddipet,108%,Electric_Growth %
+Karimnagar,110%,Diesel_Growth %
+Vikarabad,110%,Doc_Growth %
+Jogulamba Gadwal,116%,Doc_Growth %
+Rajanna Sircilla,116%,Doc_Growth %
+Mulugu,119%,Inv_Growth_%
+Nirmal,119%,Doc_Growth %
+Suryapet,120%,Doc_Growth %
+Nagarkurnool,121%,Electric_Growth %
+Hyderabad,121%,Doc_Growth %
+Medak,123%,Electric_Growth %
+Rangareddy,124%,Doc_Growth %
+Nagarkurnool,125%,Doc_Growth %
+Hanumakonda,126%,Doc_Growth %
+Siddipet,132%,Doc_Growth %
+Jagtial,133%,Doc_Growth %
+Sangareddy,135%,Doc_Growth %
+Jagtial,136%,Electric_Growth %
+Suryapet,145%,Inv_Growth_%
+Nizamabad,146%,Doc_Growth %
+Khammam,147%,Doc_Growth %
+Mahabubabad,148%,Doc_Growth %
+Peddapalli,148%,Doc_Growth %
+Wanaparthy,151%,Doc_Growth %
+Sangareddy,153%,Electric_Growth %
+Karimnagar,153%,Doc_Growth %
+Medchal_Malkajgiri,153%,Doc_Growth %
+Jogulamba Gadwal,157%,Electric_Growth %
+Mancherial,165%,Doc_Growth %
+Medchal_Malkajgiri,166%,Electric_Growth %
+Kumurambheem Asifabad,167%,Inv_Growth_%
+Bhadradri Kothagudem,168%,Doc_Growth %
+Peddapalli,181%,Electric_Growth %
+Yadadri Bhuvanagiri,185%,Electric_Growth %
+Nalgonda,189%,Electric_Growth %
+Mahabubabad,190%,Inv_Growth_%
+Adilabad,194%,Doc_Growth %
+Medak,209%,Inv_Growth_%
+Hyderabad,209%,Electric_Growth %
+Vikarabad,214%,Inv_Growth_%
+Nirmal,227%,Inv_Growth_%
+Rangareddy,230%,Electric_Growth %
+Nirmal,235%,Electric_Growth %
+Mulugu,262%,Doc_Growth %
+Karimnagar,268%,Electric_Growth %
+Nalgonda,284%,Inv_Growth_%
+Siddipet,293%,Inv_Growth_%
+Hyderabad,294%,Inv_Growth_%
+Jangoan,320%,Electric_Growth %
+Kumurambheem Asifabad,356%,Electric_Growth %
+Suryapet,356%,Electric_Growth %
+Jayashankar Bhupalpally,453%,Electric_Growth %
+Mahabubabad,486%,Electric_Growth %
+Jangoan,513%,Inv_Growth_%
+Khammam,607%,Electric_Growth %
+Yadadri Bhuvanagiri,655%,Inv_Growth_%
+Bhadradri Kothagudem,693%,Electric_Growth %
+Jogulamba Gadwal,792%,Inv_Growth_%
+Kamareddy,1551%,Inv_Growth_%
+Nagarkurnool,2255%,Inv_Growth_%
+Mancherial,2827%,Inv_Growth_%
+Wanaparthy,6983%,Inv_Growth_%
+Narayanpet,34577%,Inv_Growth_%
+Hanumakonda,0.00%,Inv_Growth_%
+Hanumakonda,0.00%,Diesel_Growth %
+Mulugu,0.00%,Diesel_Growth %
+Narayanpet,0.00%,Diesel_Growth %
+Hanumakonda,0.00%,Electric_Growth %
+Mulugu,0.00%,Electric_Growth %
+Narayanpet,0.00%,Electric_Growth %
+Hanumakonda,0.00%,Petrol_Growth %
+Mulugu,0.00%,Petrol_Growth %
+Narayanpet,0.00%,Petrol_Growth %
+Jayashankar Bhupalpally,0.00%,Doc_Growth %
+Jayashankar Bhupalpally,0.00%,E_Doc_Growth%
